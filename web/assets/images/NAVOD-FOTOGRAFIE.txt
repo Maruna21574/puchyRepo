@@ -1,0 +1,46 @@
+AKO DOPLNIŤ FOTOGRAFIE
+======================
+
+Fotografie sa na webe zobrazia AUTOMATICKY, keď súbor nahráte so správnym názvom.
+Podporované formáty: .jpg, .jpeg, .png, .webp
+Odporúčaná veľkosť: dlhšia strana 1600–2000 px, veľkosť súboru do 400 kB
+(zmenšiť môžete napr. na https://squoosh.app).
+
+Pozor: na hostingu (Linux) záleží na veľkosti písmen – „Foto.JPG“ nie je to isté ako „foto.jpg“.
+
+ÚVOD: v úvode je logo (nie fotografia) – nič netreba nahrávať.
+
+HLAVNÉ FOTOGRAFIE (priečinok assets/images/)
+  ludmila-dolinska.jpg   – portrét masérky do sekcie „O mne“ (na výšku, pomer cca 4:5);
+                           po nahratí sa zobrazí spolu s oMne2.jpg (carousel)
+  fotka1.jpg, fotka2…    – galéria „Nahliadnite k nám“ (fotka4 je zámerne prvá; popisy sú
+                           v includes/galeria.php)
+  og-image.jpg           – náhľad pri zdieľaní na Facebooku (1200 × 630 px) – už vytvorený
+
+MASÁŽE (priečinok assets/images/sluzby/, pomer cca 16:11, na šírku)
+  klasicka-masaz.jpg
+  chrbat-a-sija.jpg
+  sportova-masaz.jpg
+  bankovanie.jpg
+  reflexna-masaz-chodidla.jpg
+  medova-detox-masaz.jpg
+  makke-techniky.jpg
+  lymfodrenaz.jpg
+  maderoterapia.jpg
+  aroma-celotelova-masaz.jpg
+  masazne-techniky.jpg
+
+GALÉRIA (priečinok assets/images/galeria/)
+  Nahrajte ľubovoľný počet fotiek. Poradie určuje číslo na začiatku názvu.
+  Názvy súborov píšte BEZ diakritiky a medzier. Popis so správnou diakritikou
+  (alt text pre Google a nevidiacich) doplňte do súboru includes/galeria.php –
+  inak sa vytvorí automaticky z názvu súboru. Príklady názvov:
+    01-masazna-miestnost.jpg
+    02-ludmila-pri-masazi.jpg
+    03-masazne-banky.jpg
+    04-drevene-nastroje-na-maderoterapiu.jpg
+  Kým v priečinku nie je žiadna fotka, zobrazujú sa označené miesta na doplnenie.
+
+POZOR: Na web patria iba fotografie, ku ktorým má klientka práva
+(vlastné fotky alebo licencované). Celé reklamné letáky do galérie nedávajte.
+Ilustračné (stock) fotky treba pri použití označiť ako ilustračné.

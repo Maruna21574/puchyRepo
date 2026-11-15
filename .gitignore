@@ -1,0 +1,3 @@
+private/smtp-config.php
+web/private/smtp-config.php
+*.log

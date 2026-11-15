@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="400" height="400" role="img" aria-label="Masáže v Sásovej – Banská Bystrica">
+  <title>Masáže v Sásovej – pečať</title>
+  <defs><path id="t" d="M30 100a70 70 0 0 1 140 0"/><path id="b" d="M19 100a81 81 0 0 0 162 0"/></defs>
+  <circle cx="100" cy="100" r="97" fill="#FDFAF5"/>
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#A8844D" stroke-width=".9"/>
+  <circle cx="100" cy="100" r="61" fill="none" stroke="#A8844D" stroke-width=".6" opacity=".7"/>
+  <text font-family="'EB Garamond', Garamond, Georgia, serif" font-size="17.5" letter-spacing="2.6" fill="#6B1E2C"><textPath href="#t" startOffset="50%" text-anchor="middle">MASÁŽE V SÁSOVEJ</textPath></text>
+  <text font-family="Jost, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" letter-spacing="4.2" fill="#6A5249"><textPath href="#b" startOffset="50%" text-anchor="middle">BANSKÁ BYSTRICA</textPath></text>
+  <circle cx="19.5" cy="100" r="1.8" fill="#A8844D"/><circle cx="180.5" cy="100" r="1.8" fill="#A8844D"/>
+  <g transform="translate(64 60) scale(1.125)" fill="none" stroke="#A8844D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M31 44.5C25 37.5 15.5 34.2 6.5 35.6c4.2 7.6 13.4 10.8 24.5 8.9Z"/><path d="M33 44.5c6-7 15.5-10.3 24.5-8.9-4.2 7.6-13.4 10.8-24.5 8.9Z"/><path d="M32 44.5c-2-11.2 2.6-20.6 13.8-25.6 1.9 11.9-3.8 21.4-13.8 25.6Z"/><path d="M32 44.5c2-11.2-2.6-20.6-13.8-25.6-1.9 11.9 3.8 21.4 13.8 25.6Z"/><path fill="#6B1E2C" d="M32 8.5c8.2 9 9.4 22.6 0 36-9.4-13.4-8.2-27 0-36Z"/><path d="M15 52.5c9.5-3.4 24.5-3.4 34 0"/><path d="M22 57c6-1.6 14-1.6 20 0" stroke-width="1.1" opacity=".6"/></g>
+</svg>
